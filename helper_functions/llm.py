@@ -6,10 +6,12 @@ import tiktoken
 
 
 if load_dotenv('.env'):
-   #for local environment
+   # for local development
    OPENAI_KEY = os.getenv('OPENAI_API_KEY')
 else:
+   # for streamlit community cloud
    OPENAI_KEY = st.secrets['OPENAI_API_KEY']
+
 
 # Pass the API Key to the OpenAI Client
 client = OpenAI(api_key=OPENAI_KEY)
