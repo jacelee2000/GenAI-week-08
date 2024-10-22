@@ -73,5 +73,5 @@ with st.expander("Methodology"):
 
 
 with st.expander("GITHUB Link"):
-    st.write("https://github.com/davidseowccc/AIBC2024_Project/blob/main/README.md ")
+    st.write("https://github.com/jacelee2000/GenAI-week-08 ")
           
