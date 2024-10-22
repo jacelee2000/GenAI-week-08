@@ -21,7 +21,7 @@ if not check_password():
 form = st.form(key="form")
 form.subheader("Prompt")
 
-user_prompt = form.text_area("Enter your prompt here related to course counseling", height=200)
+user_prompt = form.text_area("Enter your prompt here related to course counseling e.g. What skills can I acquired after graduated from accountancy course?", height=200)
 
 if form.form_submit_button("Submit"):
     
