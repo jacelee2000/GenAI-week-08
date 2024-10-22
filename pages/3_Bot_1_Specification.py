@@ -69,6 +69,7 @@ current_directory = os.getcwd()
 image_path = os.path.join(current_directory, "pages", "methodology1.png")
 with st.expander("Methodology"):
     st.image(image_path, caption="Methodology")
+    
 
 
           

@@ -63,6 +63,7 @@ with st.expander("Available Data Source"):
              - https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid 
             
              ''')
+    
  
 
 
