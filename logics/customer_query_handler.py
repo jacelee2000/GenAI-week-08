@@ -11,6 +11,7 @@ school_n_course_name = {'School of Business & Accountancy':['Accountancy',
                                                      'Biomedical Engineering'],
                             'School of Film & Media Study':'Mass Communication'}
 
+
 # Load the JSON file
 filepath = './data/course_coaching_2.json'
 with open(filepath, 'r') as file:

@@ -13,6 +13,7 @@ st.set_page_config(
 )
 # endregion <--------- Streamlit App Configuration --------->
 
+
 st.title("DAE International Qualificacation Bot")
 
 if not check_password():  

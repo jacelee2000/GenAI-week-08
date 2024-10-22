@@ -6,6 +6,7 @@ from logics.customer_query_handler import process_user_message
 from helper_functions.utility import check_password
 
 
+
 # region <--------- Streamlit App Configuration --------->
 st.set_page_config(
     layout="centered",

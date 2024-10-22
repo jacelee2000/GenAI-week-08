@@ -8,6 +8,7 @@ import hmac
 # """  
 
 
+
 def check_password():  
     """Returns `True` if the user had the correct password."""  
     def password_entered():  

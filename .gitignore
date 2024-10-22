@@ -21,4 +21,4 @@ dist/
 .idea/
 
 # Streamlit
-.streamlit/secrets.toml
+.streamlit/secrets.toml 

@@ -10,6 +10,7 @@ st.set_page_config(
 )
 
 
+
 with st.expander("Problem Statement"):
     st.write('''
              Ngee Ann Polytechnic admits students through various admission exercises. 

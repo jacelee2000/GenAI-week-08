@@ -6,6 +6,7 @@ st.set_page_config(
     page_title="Ngee Ann Polytechnic Course Counseling Bot"
 )
 
+
 st.title("Welcome to Ngee Ann Polytechnic Course Counseling Bot!")
 st.write("Hello! I'm your friendly Course Counseling Assistant, here to help you navigate the wide array of courses offered at Ngee Ann Polytechnic. Whether you're a prospective student or someone looking to learn more about a specific program, I'm here to provide you with all the information you need.")
 

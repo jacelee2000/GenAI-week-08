@@ -12,6 +12,7 @@ st.write("Hello! I'm your friendly DAE International Qualification Assistant, he
 
 
 
+
 st.title("How It Works:")
 st.write('''
     1. Ask Away: Just type your question, and I'll find the best possible answer for you.
