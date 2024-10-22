@@ -1,0 +1,271 @@
+{
+    "International General Certificate of Secondary Education (IGCSE)": {
+        "nationality": "Any Country",
+        "qualification_name": "International General Certificate of Secondary Education (IGCSE)",
+        "mer": [
+            "English as a First Language: Minimum Grade C",
+			"Mathematics: Minimum Grade C",
+			"1 relevant subject and 2 best subjects: Minimum Grade C"
+        ],
+        "note": "Issued by any of the following examination boards:Cambridge,Edexcel,Oxford AQA,Minimum Entry Requirements"
+    },
+    "International Baccalaureate (IB) Diploma": {
+        "nationality": "Any Country",
+        "qualification_name": "International Baccalaureate (IB) Diploma",
+        "mer": [
+            "English: Minimum Grade 5",
+			"Mathematics: Minimum Grade 5",
+			"1 relevant and 2 best subjects: Minimum Grade 5"
+        ],
+        "note": "All requirements to be for Year 12 Standard Level"
+    },
+   "Unified Examination Certificate (UEC)": {
+        "nationality": "Malaysia",
+        "qualification_name": "Unified Examination Certificate (UEC)",
+        "mer": [
+            "English: Grade A1 to B6",
+			"Mathematics: Grade A1 to B6",
+			"1 relevant and 2 best subjects: Grade A1 to B6"
+        ],
+        "note": ""
+    },
+   "Sijil Pelajaran Malaysia (SPM)": {
+        "nationality": "Malaysia",
+        "qualification_name": "Sijil Pelajaran Malaysia (SPM)",
+        "mer": [
+            "Bahasa Inggeris: Grade A+ to C",
+			"Mathematics: Grade A+ to C",
+			"1 relevant and 2 best subjects: Grade A+ to C"
+        ],
+        "note": ""
+    },
+    "Sijil Tinggi Persekolahan Malaysia (STPM)": {
+        "nationality": "Malaysia",
+        "qualification_name": "Sijil Tinggi Persekolahan Malaysia (STPM)",
+        "mer": [
+            "On a case-by-case basis"
+        ],
+        "note": ""
+    },
+	   "Brunei-Cambridge General Certificate of Education Ordinary Level": {
+        "nationality": "Brunei",
+        "qualification_name": "Brunei-Cambridge General Certificate of Education Ordinary Level",
+        "mer": [
+            "English: Grade A1 to C6",
+			"Mathematics: Grade A1 to C6",
+			"1 relevant and 2 best subjects: Grade A1 to C6"
+        ],
+        "note": ""
+    },
+	   "National College Entrance Examination (NCEE) ‘Gaokao’": {
+        "nationality": "China",
+        "qualification_name": "National College Entrance Examination (NCEE) ‘Gaokao’",
+        "mer": [
+            "English*: Minimum 60%",
+			"Mathematics: Minimum 60%",
+			"1 relevant subject and 2 best subjects: Minimum 60%"
+        ],
+        "note": ""
+    },
+		"Year 12 Senior Middle School Graduation Examination Results": {
+        "nationality": "China",
+        "qualification_name": "Year 12 Senior Middle School Graduation Examination Results",
+        "mer": [
+            "English*: Minimum 60%",
+			"Mathematics: Minimum 60%",
+			"1 relevant subject and 2 best subjects: Minimum 60%"
+        ],
+        "note": ""
+    },
+		"Year 11 Senior Middle 2 Semester 2 Results": {
+        "nationality": "China",
+        "qualification_name": "Year 11 Senior Middle 2 Semester 2 Results",
+        "mer": [
+            "English*: Minimum 60%",
+			"Mathematics: Minimum 60%",
+			"1 relevant subject and 2 best subjects: Minimum 60%"
+        ],
+        "note": "Alternative English Language Proficiency Test results such as IELTS Academic minimum overall score of 6.0 (with minimum score of 6.0 each for all individual assessment components of Listening, Reading, Writing & Speaking), TOEFL (minimum score 78 for internet-based test) or IGCSE English as a First Language (minimum grade C) can be considered."
+    },
+	   "Hong Kong Diploma of Secondary Education (HKDSE)": {
+        "nationality": "Hong Kong",
+        "qualification_name": "Hong Kong Diploma of Secondary Education (HKDSE)",
+        "mer": [
+            "English: Minimum Grade 3",
+			"Mathematics: Minimum Grade 3",
+			"1 relevant and 2 best subjects: Minimum Grade 3"
+        ],
+        "note": "Category A subjects only."
+    },
+	   "Year 10 of Central Board of Secondary Education (CBSE)": {
+        "nationality": "India",
+        "qualification_name": "Year 10 of Central Board of Secondary Education (CBSE)",
+        "mer": [
+            "English: Minimum 70%",
+			"Mathematics: Minimum 70%",
+			"1 relevant and 2 best subjects: Minimum 70%"
+        ],
+        "note": "Returning Singaporeans with Year 10 Secondary School Certificates from other Indian State Boards may be considered."
+    },
+	   "Indian Certificate of Secondary Education (ICSE)": {
+        "nationality": "India",
+        "qualification_name": "Indian Certificate of Secondary Education (ICSE)",
+        "mer": [
+            "English: Minimum 70%",
+			"Mathematics: Minimum 70%",
+			"1 relevant and 2 best subjects: Minimum 70%"
+        ],
+        "note": "Returning Singaporeans with Year 10 Secondary School Certificates from other Indian State Boards may be considered."
+    },
+	   "Higher Secondary School Certificate (Year 12)": {
+        "nationality": "India",
+        "qualification_name": "Higher Secondary School Certificate (Year 12)",
+        "mer": [
+            "English: Minimum 70%",
+			"Mathematics: Minimum 70%",
+			"1 relevant and 2 best subjects: Minimum 70%"
+        ],
+        "note": "Returning Singaporeans with Year 10 Secondary School Certificates from other Indian State Boards may be considered."
+    },
+	   "National Final Evaluation Examinations": {
+        "nationality": "Indonesia",
+        "qualification_name": "National Final Evaluation Examinations",
+        "mer": [
+            "English*: Minimum Grade 7",
+			"Mathematics: Minimum Grade 7",
+			"1 relevant and 2 best subjects: Minimum Grade 7"
+        ],
+        "note": ""
+    },
+	   "Ujian Akhir Nasional (UAN)": {
+        "nationality": "Indonesia",
+        "qualification_name": "Ujian Akhir Nasional (UAN)",
+        "mer": [
+            "English*: Minimum Grade 7",
+			"Mathematics: Minimum Grade 7",
+			"1 relevant and 2 best subjects: Minimum Grade 7"
+        ],
+        "note": ""
+    },
+	   "Sekolah Menengah Atas (SMA)": {
+        "nationality": "Indonesia",
+        "qualification_name": "Sekolah Menengah Atas (SMA)",
+        "mer": [
+            "English*: Minimum Grade 7",
+			"Mathematics: Minimum Grade 7",
+			"1 relevant and 2 best subjects: Minimum Grade 7"
+        ],
+        "note": ""
+    },
+	   "SMU Ebtanas": {
+        "nationality": "Indonesia",
+        "qualification_name": "SMU Ebtanas",
+        "mer": [
+            "English*: Minimum Grade 7",
+			"Mathematics: Minimum Grade 7",
+			"1 relevant and 2 best subjects: Minimum Grade 7"
+        ],
+        "note": ""
+    },
+	   "Year 12 High School Graduation Examination Results": {
+        "nationality": "Indonesia",
+        "qualification_name": "Year 12 High School Graduation Examination Results",
+        "mer": [
+            "English*: Minimum 70%",
+			"Mathematics: Minimum 70%",
+			"1 relevant subject and 2 best subjects: Minimum 70%"
+        ],
+        "note": "Alternative English Language Proficiency Test results such as IELTS Academic minimum overall score of 6.0 (with minimum score of 6.0 each for all individual assessment components of Listening, Reading, Writing & Speaking), TOEFL (minimum score 78 for internet-based test) or IGCSE English as a First Language (minimum grade C) can be considered."
+    },
+	   "Year 11 High School Semester 2 Results taken in the current year (from 2021 onwards)": {
+        "nationality": "Indonesia",
+        "qualification_name": "Year 11 High School Semester 2 Results taken in the current year (from 2021 onwards)",
+        "mer": [
+            "English*: Minimum 70%",
+			"Mathematics: Minimum 70%",
+			"1 relevant subject and 2 best subjects: Minimum 70%"
+        ],
+        "note": "Alternative English Language Proficiency Test results such as IELTS Academic minimum overall score of 6.0 (with minimum score of 6.0 each for all individual assessment components of Listening, Reading, Writing & Speaking), TOEFL (minimum score 78 for internet-based test) or IGCSE English as a First Language (minimum grade C) can be considered."
+    },
+	   "Basic Education High School (BEHS)": {
+        "nationality": "Myanmar",
+        "qualification_name": "Basic Education High School (BEHS)",
+        "mer": [
+            "English*: Minimum 70%",
+			"Mathematics: Minimum 70%",
+			"1 relevant and 2 best subjects: Minimum 70%"
+        ],
+        "note": "Alternative English Language Proficiency Test results such as IELTS Academic minimum overall score of 6.0 (with minimum score of 6.0 each for all individual assessment components of Listening, Reading, Writing & Speaking), TOEFL (minimum score 78 for internet-based test) or IGCSE English as a First Language (minimum grade C) can be considered."
+    },
+	   "High School Diploma (Year 12)": {
+        "nationality": "Philippines",
+        "qualification_name": "High School Diploma (Year 12)",
+        "mer": [
+            "English: Minimum 85%",
+			"Mathematics: Minimum 85%",
+			"1 relevant and 2 best subjects: Minimum 85%"
+        ],
+        "note": ""
+    },
+	   "Sri Lanka National Examination": {
+        "nationality": "Sri Lanka",
+        "qualification_name": "Sri Lanka National Examination",
+        "mer": [
+            "English: Minimum 70% or B Grade",
+			"Mathematics: Minimum 70% or B Grade",
+			"1 relevant and 2 best subjects: Minimum 70% or B Grade"
+        ],
+        "note": ""
+    },
+	   "Sri Lanka National Examination": {
+        "nationality": "Sri Lanka (Only for Returning Singaporeans)",
+        "qualification_name": "Sri Lanka National Examination",
+        "mer": [
+            "English: Minimum 70% or B Grade",
+			"Mathematics: Minimum 70% or B Grade",
+			"1 relevant and 2 best subjects: Minimum 70% or B Grade"
+        ],
+        "note": ""
+    },
+	   "General Certificate of Education (Ordinary Level) Examination": {
+        "nationality": "Sri Lanka (Only for Returning Singaporeans)",
+        "qualification_name": "General Certificate of Education (Ordinary Level) Examination",
+        "mer": [
+            "English: Minimum 70% or B Grade",
+			"Mathematics: Minimum 70% or B Grade",
+			"1 relevant and 2 best subjects: Minimum 70% or B Grade"
+        ],
+        "note": ""
+    },
+	   "Mathayom 6 (Year 12)": {
+        "nationality": "Thailand",
+        "qualification_name": "Mathayom 6 (Year 12)",
+        "mer": [
+            "English*: Minimum Grade 3 (70%)",
+			"Mathematics: Minimum Grade 3 (70%)",
+			"1 relevant and 2 best subjects: Minimum Grade 3 (70%)"
+        ],
+        "note": "Alternative English Language Proficiency Test results such as IELTS Academic minimum overall score of 6.0 (with minimum score of 6.0 each for all individual assessment components of Listening, Reading, Writing & Speaking), TOEFL (minimum score 78 for internet-based test) or IGCSE English as a First Language (minimum grade C) can be considered."
+    },
+	   "Year 12 High School Diploma": {
+        "nationality": "USA",
+        "qualification_name": "Year 12 High School Diploma",
+        "mer": [
+            "English: Minimum Grade B",
+			"Mathematics: Minimum Grade B",
+			"1 relevant and 2 best subjects: Minimum Grade B"
+        ],
+        "note": ""
+    },
+	   "Year 12 High School Graduation Certificate of National Examination": {
+        "nationality": "Vietnam",
+        "qualification_name": "Year 12 High School Graduation Certificate of National Examination",
+        "mer": [
+            "English*: Minimum Grade 7",
+			"Mathematics: Minimum Grade 7",
+			"1 relevant and 2 best subjects: Minimum Grade 7"
+        ],
+        "note": "Alternative English Language Proficiency Test results such as IELTS Academic minimum overall score of 6.0 (with minimum score of 6.0 each for all individual assessment components of Listening, Reading, Writing & Speaking), TOEFL (minimum score 78 for internet-based test) or IGCSE English as a First Language (minimum grade C) can be considered."
+    }
+
+}

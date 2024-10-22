@@ -1,39 +1,25 @@
-# Set up and run this Streamlit App
 import streamlit as st
-import pandas as pd
-# from helper_functions import llm
-from logics.customer_query_handler import process_user_message
-from helper_functions.utility import check_password
 
-
-# region <--------- Streamlit App Configuration --------->
 st.set_page_config(
     layout="centered",
-    page_title="My Streamlit App"
+    page_title="Ngee Ann Polytechnic Chatbot",
+    
 )
-# endregion <--------- Streamlit App Configuration --------->
 
-st.title("Streamlit App")
+st.title("Welcome to Ngee Ann Polytechnic Chatbots")
 
-if not check_password():  
-    st.stop()
+st.write(
+    '''
+    We are excited to introduce our two intelligent chatbots designed to assist you in your learning journey. 
+    Whether you’re looking for personalized course coaching or seeking detailed information about course entry requirements, 
+    our chatbots are here to guide you every step of the way. Explore the capabilities of each chatbot below.
     
-form = st.form(key="form")
-form.subheader("Prompt")
-
-user_prompt = form.text_area("Enter your prompt here", height=200)
-
-if form.form_submit_button("Submit"):
-    
-    st.toast(f"User Input Submitted - {user_prompt}")
-
-    st.divider()
-
-    response, course_details = process_user_message(user_prompt)
-    st.write(response)
-
-    st.divider()
-
-    print(course_details)
-    df = pd.DataFrame(course_details)
-    df 
+    #### Main                       
+    #### Chatbot 1                 
+    #### About Chatbot 1            
+    #### Chatbot 1 Specification     
+    #### Chatbot 2     
+    #### About Chatbot 2         
+    #### Chatbot 2 Specification                     
+    '''
+)

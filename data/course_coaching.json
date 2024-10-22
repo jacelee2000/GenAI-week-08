@@ -1,0 +1,705 @@
+{
+    "Arts Business Management":{
+        "Course_Code": "N91",
+        "Abbreviation": "ABM",
+        "School": "School of Humanities & Interdisciplinary Studies",
+        "Poly_Course_Code": "N91",
+        "Course_Name": "Arts Business Management",
+        "Course_Description": "If you love the idea of planning arts events, or working in galleries, museums, performing arts, or heritage organisations, then the Diploma in Arts Business Management (ABM) is what you are looking for! With ABM, you will cultivate an appreciation for various creative art forms – ranging from theatre and music, to dance and visual arts – and gain the business and management skills to thrive in and contribute to the transformation of these sectors. Besides attending lectures and workshops, you can look forward to exciting industry visits and opportunities to work on projects sponsored by our reputable partners from the arts, culture and heritage fields.",
+        "Skills": "You will have the opportunity to work on integrated projects, including the conceptualisation and execution of business development plans for companies in the creative industries. Apart from gaining hands-on business development skills, you will amass practical experience that will get you career ready. Keen to launch your own project? Gain opportunities to create your own digital exhibition, or even develop products, programmes and merchandise!",
+        "Careers": [
+            "Arts Administrator",
+            "Artist Manager",
+            "Events Executive",
+            "Education and Outreach Executive",
+            "Marketing Executive",
+            "Programme Executive/Manager"
+        ]
+    },
+    "Accountancy":{
+        "Course_Code": "N51",
+        "Abbreviation": "ACC",
+        "School": "School of Business & Accountancy",
+        "Poly_Course_Code": "N51",
+        "Course_Name": "Accountancy",
+        "Course_Description": "Beyond bookkeeping and budgeting, accounting weaves business data together into actionable insights. In today’s rapidly changing business environment, financial experts play a key role in evaluating business risks, performing strategic analyses and identifying opportunities. If such challenges excite you, then our Diploma in Accountancy (ACC) will be your perfect choice! ACC will give you a solid grounding in domain knowledge and transferrable skills for exciting, diverse career options. Integrated with training in digital skills and the study of sustainability concepts, this course will enable you to become a future-ready accounting professional!",
+        "Skills": "",
+        "Careers": [
+            "Business Advisor",
+            "Business Analyst",
+            "Environment, Social & Governance (ESG) Auditor",
+            "Financial Accountant",
+            "Financial Auditor",
+            "Forensics Accountant",
+            "Internal Auditor",
+            "Management Accountant",
+            "Sustainability Data Specialist",
+            "Tax Associate"
+        ]
+    },
+    "Aerospace Engineering":{
+        "Course_Code": "N65",
+        "Abbreviation": "AEG",
+        "School": "School of Engineering",
+        "Poly_Course_Code": "N65",
+        "Course_Name": "Aerospace Engineering",
+        "Course_Description": "Growing up, were you fascinated with how a heavy machine can fly? Do you ever imagine yourself working on the next generation of aircraft? Then come on board the Diploma in Aerospace Engineering (AEG). As global travel resumes, the demand for aerospace professionals in the industry is set to soar. With this broad-based diploma, you will gain a strong engineering foundation and discover how you can play a role in this fast-growing sector!",
+        "Skills": "Gain insights into the aerospace industry through modules such as aerial system design and integration, aircraft electrical and instrumentation systems, as well as aircraft data communications and networking. As more companies leverage the power of big data to monitor aircraft health and predict maintenance schedules, you will be equipped with next-gen skills such as data analytics, artificial intelligence & machine learning. In addition, with green aviation concepts integrated into the AEG curriculum, you can contribute significantly to environmental sustainability efforts within the aerospace sector!",
+        "Careers": [
+            "Planning Executive",
+            "Planning Supervisor",
+            "Senior Technician (Engine/Engine Component Repair & Overhaul)",
+            "Senior Technician (Component Repair & Overhaul - Avionics/Mechanical)",
+            "Senior Technician (Avionics/Mechanical)",
+            "Quality Engineer",
+            "Technical Service Engineer",
+            "Workshop Engineer"
+        ]
+    },
+    "Banking & Finance":{
+        "Course_Code": "N53",
+        "Abbreviation": "BF",
+        "School": "School of Business & Accountancy",
+        "Poly_Course_Code": "N53",
+        "Course_Name": "Banking & Finance",
+        "Course_Description": "Technology, innovation and sustainability are key driving forces shaping the future of the global financial industry. Get equipped with the right skill sets to reimagine the future of banking with our Diploma in Banking & Finance (BF). The BF course provides you with broad-based knowledge of accounting and business with specialised training in banking and finance. You will learn how banks operate and acquire knowledge of environmental, social and governance (ESG) and green finance practices in the sector – and be ready to play a crucial role in driving sustainable finance initiatives.",
+        "Skills": "As the Sector Coordinator of Singapore’s Accountancy & Financial Services cluster, we have established strong links with industry partners to provide you with robust learning experiences as well as industry networking and mentorship opportunities. To strengthen your understanding of key concepts learnt in the course, you will get to participate in the Pan-Poly FinTech hackathon, and other nationwide challenges such as the CGS-CIMB Investment Challenge, and work on industry projects where you can apply your skills to solve real-life business scenarios. Want to know if your project proposals are relevant to industry needs? You will get to present to and hear from industry professionals who will co-assess your project proposals.",
+        "Careers": [
+            "Banking Sales Executive",
+            "Banking Services Executive",
+            "Credit Analyst",
+            "Compliance Executive",
+            "Customer Service Executive",
+            "ESG Product Specialist",
+            "Financial Advisor",
+            "KYC Analyst",
+            "Personal Wealth Executive",
+            "Risk Analyst",
+            "Sustainable Finance Analyst"
+        ]
+    },
+    "Biomedical Engineering":{
+        "Course_Code": "N60",
+        "Abbreviation": "BME",
+        "School": "School of Engineering",
+        "Poly_Course_Code": "N60",
+        "Course_Name": "Biomedical Engineering",
+        "Course_Description": "Fascinated by how engineering and biology can benefit society? Or are you interested in helping medical professionals do their work better? If you’re passionate about the medical technology (MedTech) field, then the Diploma in Biomedical Engineering (BME) is perfect for you. This fast-growing field is responsible for the design of sophisticated medical devices and healthcare equipment such as personal health trackers – which range from wearable glucose meters to electrocardiography (ECG) monitors - and lifesaving devices including the pacemaker and dialysis machine. The first diploma of its kind in Singapore, BME is jointly developed by Ngee Ann Polytechnic’s School of Engineering and industry partners. Besides learning the testing and manufacturing processes of medical devices and healthcare equipment, BME also gives you a firm grounding in research that could lead to the discovery and development of faster and more accurate tools for medical treatment.",
+        "Skills": "As medical devices become more connected, there is an increased need to ensure these devices are safe from cyber threats. BME will equip you with the skills to embed cybersecurity requirements in the development of MedTech solutions. You will also be exposed to emerging technologies like Artificial Intelligence and the Internet of Medical Things (IoMT), which are increasingly adopted for clinical applications.",
+        "Careers": [
+            "Assistant Biomedical Engineer",
+            "Assistant Equipment Engineer",
+            "Assistant Product Engineer",
+            "Assistant Process Engineer",
+            "Field Service Engineer",
+            "Quality Assurance Specialist",
+            "Quality Control Laboratory Analyst",
+            "Research Associate",
+            "Sales Engineer"
+        ]
+    },
+    "Biomedical Science":{
+        "Course_Code": "N59",
+        "Abbreviation": "BMS",
+        "School": "School of Life Sciences & Chemical Technology",
+        "Poly_Course_Code": "N59",
+        "Course_Name": "Biomedical Science",
+        "Course_Description": "Fascinated by the structure of living organisms and how the human body functions? Or interested in making the next big breakthrough in diagnosing, treating or preventing diseases like COVID-19? With the rising demand for quality health care, our reputable Diploma in Biomedical Science (BMS) will give you a head start if you are keen on a dynamic career in the biotechnology sector or medical field, including healthcare. Known for its rigorous and broad-based curriculum, BMS will prepare you well for both further studies and work.",
+        "Skills": "With BMS, you will build a firm foundation in bioscience and chemistry, and develop your research and problem-solving skills that are highly valued by the industry. You will also acquire knowledge in analytical chemistry, molecular biology, cell culture & bioprocess engineering and immunological techniques. To give you a head start in conducting translation research, you will deepen your skills in genomics and proteomics, as well as translational medicine and clinical trials. You can even choose elective modules in biomanufacturing and food science & technology to broaden your career opportunities.",
+        "Careers": [
+            "Assistant Data Analyst",
+            "Associate Clinical Innovation Engineer",
+            "Assistant Food Technologist",
+            "Biomedical/Biotechnology Manufacturing Associate",
+            "Clinical Trial Assistant",
+            "Laboratory Analyst",
+            "Laboratory Technologist",
+            "Manufacturing Biotechnologist",
+            "Medical Laboratory Scientist/Medical Technologist",
+            "Quality Assurance Executive",
+            "Quality Control Analyst",
+            "Research Assistant",
+            "Research Technologist",
+            "Sales & Marketing Representative"
+        ]
+    },
+    "Chemical & Biomolecular Engineering":{
+        "Course_Code": "N56",
+        "Abbrevation": "CBE",
+        "School": "School of Life Sciences & Chemical Technology",
+        "Poly_Course_Code": "N56",
+        "Course_Name": "Chemical & Biomolecular Engineering",
+        "Course_Description": "A broad-based course that integrates biological and chemical sciences with engineering concepts, the Diploma in Chemical & Biomolecular Engineering (CBE) will open doors for you to explore careers in many industries, including the energy and chemical, biopharmaceutical, biotechnology, environmental, semiconductor and manufacturing sectors. The course is designed to hone critical thinking and problem-solving skills that will help the chemical and biomolecular engineers of tomorrow succeed. Sustainability concepts related to chemical engineering are integrated into the curriculum to sharpen your capabilities to develop solutions that address real-world challenges. You will gain essential skills in data analytics, simulation software, and process optimisation through hands-on experiences with automated pilot plants and simulated refineries in IT-enabled facilities. These skills will prepare you for the dynamic biopharmaceutical and semiconductor manufacturing industries.",
+        "Skills": [
+            "Critical thinking",
+            "Problem-solving",
+            "Data analytics",
+            "Simulation software",
+            "Process optimisation"
+        ],
+        "Careers": [
+            "Assistant Engineer",
+            "Laboratory Technologist",
+            "Assistant Biotechnologist",
+            "Environment, Health and Safety Officer",
+            "Process Technician / Technologist",
+            "Project Management Engineer",
+            "Quality Assurance / Quality Control Engineer",
+            "Technical Sales & Support Representative"
+        ]
+    },
+    "Chinese Studies":{
+        "Course_Code": "N70",
+        "Abbrevation": "CHS",
+        "School": "School of Humanities & Interdiciplinary Studies",
+        "Poly_Course_Code": "N70",
+        "Course_Name": "Chinese Studies",
+        "Course_Description": "Have a love for the Chinese language and culture or a flair for business? Armed with a Diploma in Chinese Studies (CHS), you will be a cut above the rest in meeting the rising demand for specialists in Chinese culture and language!",
+        "Skills": "With an industry-relevant curriculum, you will have opportunities to work on collaborative projects with our reputable industry partners in sectors such as education, translation, business management, culture and heritage, as well as marketing and advertising. You will also get to embark on exciting internships to sharpen your skill sets and build an outstanding portfolio.",
+        "Careers": "Language Curriculum Specialist, Primary School Chinese Educator, Business Administrator, Copywriter, Event Executive, Reporter, Scriptwriter, Translator"
+    },
+    "Chinese Media & Communication":{
+        "Course_Code": "N88",
+        "Abbrevation": "CMC",
+        "School": "School of Humanities & Interdiciplinary Studies",
+        "Poly_Course_Code": "N88",
+        "Course_Name": "Chinese Media & Communication",
+        "Course_Description": "Ever dreamt of entering the booming Chinese media industry in the region? With the rise of China, there is a growing interest and demand for Chinese media content from global companies as well as popular local Chinese-language media outlets. If bilingualism is your forte, put your skills to good use with the Diploma in Chinese Media & Communication (CMC), where you will be trained to become a versatile media professional capable of producing engaging content for a wide range of digital media platforms.",
+        "Skills": [
+            "Storytelling",
+            "Presentation skills",
+            "News writing",
+            "Advertising",
+            "Marketing",
+            "Publicity",
+            "Radio production",
+            "Video production",
+            "User experience (UX) design",
+            "User interface (UI) design"
+        ],
+        "Careers": [
+            "Assistant Producer",
+            "Content Producer",
+            "Junior Designer",
+            "Marketing Communications Executive",
+            "Radio Presenter",
+            "Radio Producer",
+            "Reporter",
+            "Video Editor",
+            "Video Journalist",
+            "TV Producer"
+        ]
+    },
+    "Cybersecurity & Digital Forensics":{
+        "Course_Code": "N94",
+        "Abbrevation": "CSF",
+        "School": "School of Infocomm Technology",
+        "Poly_Course_Code": "N94",
+        "Course_Name": "Cybersecurity & Digital Forensics",
+        "Course_Description": "You are a digital warrior raring to join the fight against cybercrime. Play a crucial role in helping companies keep their data, applications, networks, and systems safe with the Diploma in Cybersecurity & Digital Forensics (CSF). You will be equipped with a strong foundation in core CSF skills. Couple that with specialisation options and a suite of electives, CSF gives you an edge when you pursue further studies or a career in the sector.",
+        "Skills": [
+            "Core cybersecurity skills",
+            "AI for Cybersecurity",
+            "Cloud security",
+            "Mobile and web application development",
+            "Data science",
+            "Blockchain",
+            "Quantum computing",
+            "Mobile forensics",
+            "Secure software development"
+        ],
+        "Careers": [
+            "Associate Security Analyst / Engineer",
+            "Cyber Risk Analyst",
+            "Forensic Investigator",
+            "Security Engineer / Executive",
+            "Security Operations Analyst",
+            "Vulnerability Assessment and Penetration Testing Analyst"
+        ]
+    },
+    "Design":{
+    "Course_Code": "N12",
+    "Abbreviation": "DES",
+    "School": "School of Design & Environment",
+    "Poly_Course_Code": "N12",
+    "Course_Name": "Design",
+    "Course_Description": "Designers play a key role in developing solutions for the challenges we face today. From architecture to products, and experiences to processes, the designer helps create a better world. In the Diploma in Design (DES) – the only poly diploma with specialisations in Architecture and Product Innovation – you will be trained for creative careers in diverse sectors.",
+    "Skills": "DES will train you to be a next-gen designer with a curriculum that is infused with the latest technologies, with a focus on new economy skills such as data visualisation and user experience/interface (UX/UI) design. Gain exposure to emerging technologies such as Virtual Reality and Artificial Intelligence for digital design, as you hone your skills in digital fabrication, 3D printing, digital prototyping & visualisation, data analytics, machine learning and more. What’s more, you will acquire professional certifications in sought-after skills. As green design innovation gains momentum, our strong industry connections provide opportunities for you to create sustainable solutions through a wide range of hands-on activities that include hackathons and industry-sponsored projects. Throughout your three years, you will get to engage in real-world learning that equips you with career-ready skills.",
+    "Careers": [
+        "Architectural Executive",
+        "Architectural Associate",
+        "Interior Designer",
+        "Architectural Drafter",
+        "BIM Modeler",
+        "Project Coordinator",
+        "Planning Executive",
+        "Technical Officer (Architecture)",
+        "Technical Sales Executive",
+        "Architectural Site Supervisor",
+        "Exhibition Designer/Spatial designer",
+        "Visual Merchandising Designer"
+        ]
+    },
+    "Data Science":{
+        "Course_Code": "N81",
+        "Abbrevation": "DS",
+        "School": "School of Infocomm Technology",
+        "Poly_Course_Code": "N81",
+        "Course_Name": "Data Science",
+        "Course_Description": "With each click, like and share, data is being created every second around the world. There’s never been a greater demand for data science professionals to help businesses derive customer insights, drive traffic and boost profits. If you have a passion for data analytics and machine learning, and aspire to join the big data industry, the Diploma in Data Science (DS) is the course for you! Plus! you will tap into the expertise of ICT, co-founder of the Data School, with leading industry partners such as OCBC and Indorse.",
+        "Skills": [],
+        "Careers": [
+            "Artificial Intelligence Engineer",
+            "Associate Business Analyst",
+            "Associate Data Engineer",
+            "Data Analyst",
+            "Data Engineer"
+        ]
+    },
+    "Electronic & Computer Engineering":{
+        "Course_Code": "N44",
+        "Abbrevation": "ECE",
+        "School": "School of Engineering",
+        "Poly_Course_Code": "N44",
+        "Course_Name": "Electronic & Computer Engineering",
+        "Course_Description": "Who can live without electronics and computers in this day and age? From our smart phones and laptops, to the vehicles that we travel in daily, play a part in transforming the way we work and play with the Diploma in Electronic & Computer Engineering (ECE). You will be also exposed to microelectronics, semiconductor manufacturing, and the latest digital technologies of Industry 4.0, such as Artificial Intelligence & Machine Learning, Internet of Things, Data Analytics, Cloud Computing, and Networking & Security.",
+        "Skills": [],
+        "Careers": [
+            "Child Support and Family Services",
+            "Early Intervention, Special Needs Education",
+            "Curriculum Development",
+            "Play Therapy",
+            "Teacher Education"
+        ]
+    },
+    "Electrical Engineering":{
+        "Course_Code": "N43",
+        "Abbrevation": "EE",
+        "School": "School of Engineering",
+        "Poly_Course_Code": "N43",
+        "Course_Name": "Electrical Engineering",
+        "Course_Description": "As Singapore embarks on the Green Plan 2030, our energy infrastructure and electrical systems will also undergo exciting transformations. The Diploma in Electrical Engineering (EE) is future-focused and will help prepare you to support Singapore’s green transition in the energy and power landscape! Built on the three leading-edge concepts of decarbonisation, decentralisation and digitalisation, you will be well-equipped with skill sets to meet the growing demand for innovative sustainable energy solutions.",
+        "Skills": "Engage in real-world learning through the EE curriculum, where you will get to work with leading industry players such as Beckhoff Automation, National Instruments, Delta Electronics and Yinson GreenTech. You’ll also put your knowledge and skills into practice through a six-month internship with industry leaders such as SP Group, EDPR Sunseap and Sembcorp. Or you can work on a design or industry project in diverse engineering fields!",
+        "Careers": [
+            "Assistant Engineer in Power",
+            "Assistant Engineer in Project Development",
+            "Assistant Engineer in Commissioning",
+            "Assistant Engineer in Operation and Maintenance",
+            "Solar PV Project Development Supervisor",
+            "Sustainable Engineers",
+            "Technical Officer (Power Distribution Systems, Engineering & Maintenance)"
+        ]
+    },
+    "Engineering Science":{
+        "Course_Code": "N93",
+        "Abbrevation": "ES",
+        "School": "School of Engineering",
+        "Poly_Course_Code": "N93",
+        "Course_Name": "Engineering Science",
+        "Course_Description": "You're passionate about engineering applications, but also love the sciences. You're strong in both maths and physics. You enjoy scientific research and discovering new ways to solve problems. How about honing all these interests through our top-notch Diploma in Engineering Science (ES), whose students have topped NP’s graduating cohorts and secured places in prestigious university programmes? The unique ES diploma prepares you well for a wide range of degrees and careers in fields such as artificial intelligence and machine learning; computer, electrical, electronic and mechanical engineering; data analytics; and even medical science.",
+        "Skills": "In your third year, you can choose between two exciting specialisations - AI for Autonomous Systems or Data Analytics & Security – to deepen your knowledge in emerging technologies. Choose the AI for Autonomous Systems specialisation if you are passionate about the field of artificial intelligence. This option will equip you with the skills to develop autonomous system solutions for the transportation sector. You will get the opportunity to learn AV technology and work on smart urban mobility projects. Or, make the Data Analytics & Security specialisation your choice if you prefer to work on big data. Here, you will be equipped with in-demand skill sets in data analytics and data security management for cloud platforms.",
+        "Careers": "Armed with an ES diploma, you will enjoy good career prospects in areas such as research & development, product design and development, strategist and manufacturing and services."
+    },
+    "Environmental & Water Technology":{
+        "Course_Code": "N74",
+        "Abbrevation": "EWT",
+        "School": "School of Life Sciences & Chemical Technology",
+        "Poly_Course_Code": "N74",
+        "Course_Name": "Environmental & Water Technology",
+        "Course_Description": "As Singapore embarks on green initiatives under the Singapore Green Plan 2030, new sustainability initiatives will change the way people work, study and play. Join our Diploma in Environmental & Water Technology (EWT) and be at the forefront of developing sustainable environmental solutions!",
+        "Skills": [],
+        "Careers": [
+            "Assistant Engineer",
+            "Assistant Process Engineer",
+            "Lab Analyst",
+            "Lab Officer",
+            "Noise Monitoring & Control Officer",
+            "Research Engineer",
+            "Water Treatment Specialist",
+            "Workplace Safety & Health Officer"
+        ]
+    },
+    "Film, Sound & Video":{
+        "Course_Code": "N82",
+        "Abbrevation": "FSV",
+        "School": "School of Film & Media Study",
+        "Poly_Course_Code": "N82",
+        "Course_Name": "Film, Sound & Video",
+        "Course_Description": "Master the craft of creating stories that resonate with your audience with our Diploma in Film, Sound & Video (FSV). By stretching your imagination and bringing your work to life using the latest technology, FSV gives you a strong foundation in the artistic and technical aspects of filmmaking.",
+        "Skills": [],
+        "Careers": [
+            "Content Developer",
+            "Cinematographer",
+            "Director",
+            "Editor",
+            "Gaffer",
+            "Location Manager",
+            "Location Sound Recordist",
+            "Motion Graphics Designer",
+            "Post-Production Supervisor",
+            "Producer",
+            "Production Designer",
+            "Production Manager",
+            "Sound Designer",
+            "Scriptwriter"
+        ]
+    },
+    "Hotel & Leisure Facilities Management":{
+        "Course_Code": "N40",
+        "Abbrevation": "HLFM",
+        "School": "School of Design & Environment",
+        "Poly_Course_Code": "N40",
+        "Course_Name": "Hotel & Leisure Facilities Management",
+        "Course_Description": "With a strong dual focus on smart and green technologies, the Diploma in Hotel & Leisure Facilities Management (HLFM) will prepare you for exciting careers in hospitality and facilities management!",
+        "Skills": [],
+        "Careers": [
+            "Catering & Service Executive",
+            "Front Office Executive",
+            "Guest Relations Executive",
+            "Business Development Executive",
+            "Events Operation Executive",
+            "Public Relations Executive",
+            "Sales & Marketing Executive",
+            "Assistant Engineer",
+            "Facility Officer/Executive",
+            "Technical Executive"
+        ]
+    },
+    "Immersive Media":{
+        "Course_Code": "N55",
+        "Abbrevation": "IM",
+        "School": "School of Infocomm Technology",
+        "Poly_Course_Code": "N55",
+        "Course_Name": "Immersive Media",
+        "Course_Description": "If you have a passion for interactive media, simulations or games development, and a creative streak, the Diploma in Immersive Media (IM) can groom you to be a part of this cutting-edge industry.",
+        "Skills": [],
+        "Careers": [
+            "3D Artist",
+            "Creative Technologist",
+            "Digital Content Creator",
+            "Extended Reality (AR/VR/MR) Designer",
+            "Extended Reality (AR/VR/MR) Developer",
+            "Front-End Designer",
+            "Game Developer",
+            "Game Designer",
+            "Game Interface Designer",
+            "Junior Designer",
+            "Junior Programmer",
+            "Level Designer",
+            "Multimedia Designer",
+            "Producer",
+            "UI/UX Designer",
+            "Visual Designer",
+            "Web Designer"
+        ]
+    },
+    "Information Technology":{
+        "Course_Code": "N54",
+        "Abbrevation": "IT",
+        "School": "School of Infocomm Technology",
+        "Poly_Course_Code": "N54",
+        "Course_Name": "Information Technology",
+        "Course_Description": "Embark on a dynamic journey into the world of technology with our Diploma in Information Technology (IT). This intensive course is meticulously crafted to equip you with the essential skills and knowledge sought after by today's tech-driven industries. With this broad-based diploma, you will gain a strong foundation that will help you to excel in further studies or a career in emerging areas such as artificial intelligence, blockchain, cloud computing and data analytics.",
+        "Skills": [
+            "Core computing skills in programming, networking, databases and operating systems",
+            "Web application development",
+            "Business IT solutions design"
+        ],
+        "Careers": [
+            "Applications Developer",
+            "Back-End Developer",
+            "Channel Sales Executive",
+            "Cloud Engineer",
+            "Customer Experience Manager",
+            "Database Administrator",
+            "Data Analyst",
+            "Data Engineer",
+            "Front-End Developer",
+            "Full Stack Developer",
+            "Infrastructure Executive",
+            "Platform Engineer",
+            "Pre-/Post-Sales Consultant",
+            "Systems Analyst",
+            "Technical Support Executive",
+            "UI/UX Designer"
+        ]
+    },
+    "International Trade & Business":{
+        "Course_Code": "N85",
+        "Abbreviation": "ITB",
+        "School": "School of Business & Accountancy",
+        "Poly_Course_Code": "N85",
+        "Course_Name": "International Trade & Business",
+        "Course_Description": "Ever wondered how global e-commerce platforms like Amazon and Alibaba tap emerging technologies to ship and distribute their products and services all over the world? As more consumers turn to e-commerce for all their needs, the demand for wholesale trade and logistics professionals in the industry is set to soar. Get a better understanding of international trade practices and supply chain management, and discover how you can play a role in the fast-changing global trade sector with the Diploma in International Trade & Business (ITB)!",
+        "Skills": "In your final year, choose either a six-month local or overseas internship, or the one-year JobReady Programme aimed at further deepening your industry exposure. Our partners include multinationals such as Robert Bosch, global logistics companies such as Bollore, global trading companies such as Wilmar, and local companies with well-developed logistics arms such as ST Engineering and Culina. Aimed at preparing you to seize future opportunities, the curriculum for internship and the one-year JobReady Programme offer exposure to knowledge and skills in emerging areas – so you can be prepared for in-demand roles such as a Risk & Resilience Analyst, Sustainable Supply Chain Specialist, Logistics Solutions Executive and Green Logistics Executive.",
+        "Careers": [
+            "Business Development Executive",
+            "International Business Analyst",
+            "International Marketing Executive",
+            "International Purchasing Executive",
+            "Logistics Operations Executive",
+            "Risk & Resilience Analyst",
+            "Sustainable Supply Chain Specialist",
+            "Trade Compliance Officer"
+        ]
+    },
+    "Landscape Design & Horticulture":{
+        "Course_Code": "N57",
+        "Abbreviation": "LDH",
+        "School": "School of Life Sciences & Chemical Technology",
+        "Poly_Course_Code": "N57",
+        "Course_Name": "Landscape Design & Horticulture",
+        "Course_Description": "Want to be the creative drive behind Singapore’s garden city or play a part in building a sustainable and green future? If you have a love for nature and a flair for design, the Diploma in Landscape Design & Horticulture (LDH) will put you on the right track to develop and enrich Singapore’s green spaces. Combining landscape design, plant science and horticulture management, LDH is the only diploma level course of its kind in Singapore. Thanks to our strong partnership with the National Parks Board, you can look forward to practical training, field sessions and outdoor lessons at the Greenhub, a dedicated classroom set in the midst of Clementi Woods Park, Singapore Botanic Gardens and other national parks and gardens.",
+        "Skills": "In addition, LDH will hone your project management skills at the various parks and project sites in Singapore, where you can help to design guided tours, therapeutic gardens and biophilic play areas. You may also get a chance to create prototypes of hydroponics and aquaponics systems, and investigate and experiment on growth parameters for edible crops!",
+        "Careers": [
+            "Horticulturist",
+            "Horticulture Product Specialist",
+            "Park Officer",
+            "Lab Technologist",
+            "Landscaper",
+            "Landscape Designer",
+            "Landscape Project Executive",
+            "Nursery Supervisor",
+            "Research Officer",
+            "Turfgrass Specialist",
+            "Urban Farmer"
+        ]
+    },
+    "Mass Communication":{
+        "Course_Code": "N67",
+        "Abbreviation": "MCM",
+        "School": "School of Film & Media Study",
+        "Poly_Course_Code": "N67",
+        "Course_Name": "Mass Communication",
+        "Course_Description": "A compelling narrative has the power to impact lives. Bring light to important topics, develop the big idea to effect change, and shape the way your community thinks, all with the skills you will pick up in the most established and well-loved media course in Singapore – the Diploma in Mass Communication (MCM). With a comprehensive curriculum that includes digital content creation, journalism, integrated communications, advertising, public relations, radio, TV and social media, you will learn how to effectively use all media platforms and deepen your skills in a specific area at the same time.",
+        "Skills": "You will acquire a suite of fundamental media skills in your first year, laying a strong foundation for you as you hone your skill sets in digital journalism and marketing, content marketing, market research and user experience design in the following year. You will develop your skills in top-notch purpose-built facilities that include TV and radio studios, and media labs.",
+        "Careers": [
+            "Advertising Executive",
+            "Content Producer",
+            "Corporate Communications Executive",
+            "Journalist",
+            "Marketing Communications Specialist",
+            "Producer",
+            "Presenter",
+            "Public Relations Specialist",
+            "Research Executive",
+            "Social Media Content Specialist",
+            "Sub-Editor",
+            "UI/UX Designer",
+            "UX Writer",
+            "Or start your own business like the founders of Krei Digital!"
+        ]
+    },
+    "Mechanical Engineering":{
+        "Course_Code": "N41",
+        "Abbreviation": "ME",
+        "School": "School of Engineering",
+        "Poly_Course_Code": "N41",
+        "Course_Name": "Mechanical Engineering",
+        "Course_Description": "Mechanical engineering touches virtually every aspect of modern life. Imagine an autonomous car powered by renewable energy and a robotic exoskeleton that can help seniors improve their range of motion. With the Diploma in Mechanical Engineering (ME) to give you a head start into building such sleek technology, you’ll be well positioned to excel in diverse fields from precision engineering, environment and energy, facilities and infrastructure, to the transportation sectors.",
+        "Skills": "In your first year, you will learn the fundamentals of mechanical engineering with a focus on materials and design skills through modules such as Thermofluids, Materials & Manufacturing Technology and Mechanical Engineering Fundamentals. Then deepen your understanding with modules such as Engineering System Design and Strength of Materials in your second year. You will also gain insights into the latest technologies that are reshaping the industry, such as Artificial Intelligence, robotics and the Internet of Things (IOT). Apply your skills by creating innovative clean energy solutions, developing new materials and processes, as well as designing and manufacturing products ranging from consumer products to medical devices.",
+        "Careers": [
+            "Assembly Engineer",
+            "Automation Assistant Engineer",
+            "Automotive Engineer",
+            "Facility Engineer",
+            "Manufacturing Engineer",
+            "Mechanical Engineer",
+            "Mobility Design Engineer",
+            "Precision Engineer",
+            "Product Engineer",
+            "Project Engineer",
+            "Process Engineer",
+            "Procurement Assistant",
+            "Quality Assurance Engineer",
+            "Sales Engineer"
+        ]
+    },
+    "Media Post-Production":{
+        "Course_Code": "N13",
+        "Abbreviation": "MPP",
+        "School": "School of Film & Media Study",
+        "Poly_Course_Code": "N13",
+        "Course_Name": "Media Post-Production",
+        "Course_Description": "Want to put together larger-than-life interactive digital installations at the ArtScience Museum? Or work on producing light art installations and multimedia shows at events such as the Singapore Night Festival and iLight Singapore? You could very well do so, when you join the Diploma in Media Post-Production (MPP). From pacing to music and scene transitions, post-production is essential in weaving images and sound to propel the story, engage the audience and create a multisensory experience. Through MPP, you will learn cutting-edge techniques to shape, craft and enhance stories through sound, images and text. You will also learn to design, plan and manage live or virtual shows and events.",
+        "Skills": "You will be introduced to the fundamentals of post-production, including creating and editing motion graphics, audio and video, as well as studio multi-camera production. You will also learn storytelling techniques and design principles, and hone your skills in immersive content development by creating 3D motion graphics. To master the craft of projecting your creativity on the “live” stage, you will learn to set up audio visual, stage lighting and dynamic effects systems for live events. In addition, you will pick up skills and knowledge in the various projection technologies to get you ready to project your works on stage and in an immersive environment. All of this will prepare you to become a creative technologist that is increasingly in demand.",
+        "Careers": [
+            "2D/3D Artist",
+            "Assistant Designer",
+            "Assistant Producer",
+            "Events Crew",
+            "Floor Manager",
+            "Junior Animator",
+            "Junior Graphics Designer",
+            "Lighting Specialist",
+            "Motion Graphics Artist",
+            "Post-Production Assistant",
+            "Production Assistant",
+            "Stage Crew Technician",
+            "Sound Designer",
+            "Sound Editor",
+            "Sound Recordist",
+            "Video Editor",
+            "Vision Mixer"
+        ]
+    },
+    "Mechatronics & Robotics":{
+        "Course_Code": "N50",
+        "Abbreviation": "MR",
+        "School": "School of Engineering",
+        "Poly_Course_Code": "N50",
+        "Course_Name": "Mechatronics & Robotics",
+        "Course_Description": "Robots are changing our daily lives – imagine stepping out of your smart home, taking a self-driving vehicle to your favourite restaurant, and getting served by a robot waiter! The field of robotics and automation is steadily growing and finding its way into every home, company and industry. If you want to engineer the next generation of robots and smart machines, the Diploma in Mechatronics & Robotics (MR) is your ideal choice. With our broad-based curriculum, you will learn to use emerging technologies in robotics and automation, such as augmented reality, computer vision and Industrial Internet of Things, to develop high-tech solutions for consumer products and industrial applications. This will give you an edge when you pursue exciting careers in growing fields such as service robotics, autonomous driving technologies and industrial automation and applications.",
+        "Skills": "With many modules co-developed, co-delivered and co-assessed with our industry partners such as Omron Electronics, Universal Robots, HOPE Technik and MooVita, you can be sure that you will be prepared for the industry when you graduate. To give you an edge in your career, there are also opportunities to go on a six-month internship at companies such as PSA Singapore, Bosch Rexroth, LKH Precicon, A*STAR and Omron Electronics. What’s more, you will get exclusive opportunities to gain hands-on experience on future mobility technologies at innovative Autonomous Vehicle start-up MooVita, a high-tech provider of smart mobility solutions, situated right on our campus! Plus, gain hands-on experience at high-tech mobility solutions provider MooVita, situated right on campus!",
+        "Careers": [
+            "Robotics Engineer",
+            "Automation Engineer",
+            "Application Engineer",
+            "WSH Coordinator",
+            "Assistant Engineer/Associate Engineer in Process Engineering",
+            "Assistant Engineer/Associate Engineer in Equipment Engineering",
+            "Assistant Engineer/Associate Engineer in Facility Engineering",
+            "Assistant Engineer/Associate Engineer in Quality Engineering",
+            "Assistant Engineer/Associate Engineer in Product Engineering",
+            "Assistant Engineer/Associate Engineer in Production Engineering",
+            "Assistant Engineer/Associate Engineer in Quality Assurance/Quality Control"
+        ]
+    },
+    "Nursing":{
+        "Course_Code": "N69",
+        "Abbreviation": "NSG",
+        "School": "School of Health Sciences",
+        "Poly_Course_Code": "N69",
+        "Course_Name": "Nursing",
+        "Course_Description": "The Diploma in Nursing (NSG) is a comprehensive course that prepares you to become a versatile healthcare professional, equipped with critical thinking, analytical and problem-solving skills. You will learn how to manage medical conditions and get trained to make critical decisions that impact lives. Upon graduation, you will be ready to practise as a registered nurse or tap into a wide range of career opportunities in the healthcare, pharmaceutical and biomedical industries, locally and overseas. NSG also gives you a strong foundation to further your studies and specialisation at local and international universities.",
+        "Skills": "Hone your skills in industry-standard facilities such as our Patient Simulation Centre, complete with mannequins that can interact with you like a real patient. Other facilities include well-equipped operating theatres, intensive and emergency care units, nursing laboratories and smart classrooms.",
+        "Careers": [
+            "Nurse"
+        ]
+    },
+    "Optometry":{
+        "Course_Code": "N83",
+        "Abbreviation": "OPT",
+        "School": "School of Health Sciences",
+        "Poly_Course_Code": "N83",
+        "Course_Name": "Optometry",
+        "Course_Description": "As one of the five senses, sight is vital to practically everything we do. With an ageing population and an increased prevalence of myopia, you can play a part in improving the quality of eye care with our Diploma in Optometry (OPT). Upon graduation, you can prescribe optical treatments as a registered optometrist. In addition, our broad-based curriculum enables you to explore opportunities in fields other than healthcare.",
+        "Skills": "You will be trained by practising optometrists to diagnose vision problems, prescribe and dispense spectacles and contact lenses, as well as recommend eye treatments. Our curriculum covers broader topics such as data analytics, biostatistics & research methods, communication in practice, ethics and optometric practice management. Additionally, modules infused with myopia control management will prepare you to effectively manage myopia cases, particularly among children, and provide quality eye care.",
+        "Careers": [
+            "Optometry"
+        ]
+    },
+    "Offshore & Sustainable Engineering)":{
+        "Course_Code": "N42",
+        "Abbreviation": "OSE",
+        "School": "School of Engineering",
+        "Poly_Course_Code": "N42",
+        "Course_Name": "Offshore & Sustainable Engineering",
+        "Course_Description": "With the growing importance of sustainability, the marine and offshore sector presents new and exciting career opportunities! Set sail on your ‘green’ sea adventure with our Diploma in Offshore & Sustainable Engineering (OSE). You will get trained in naval architecture and marine engineering, with a green focus on sustainability, decarbonisation and renewable energy. Through OSE, you will gain expertise in designing and building offshore vessels and structures. By delving into crucial areas of green technology – such as low-carbon and green-fuelled systems, as well as hydrogen infrastructure – you will gain the knowledge needed for careers in the sustainable engineering sector. With offshore wind identified as a key sector for sustainable energy growth in Singapore and Asia, OSE will give you a head start in this emerging field. Moreover, the course will hone your knowledge in Artificial Intelligence (AI) applications, including autonomous vessels. You will also learn about essential digital skills, such as data analytics for technical operations and processes.",
+        "Skills": "Our strong emphasis on industry-based projects will give you an edge in creating innovative solutions for using clean energy, developing new materials and processes, as well as designing and building marine vessels and offshore structures. In your final year, you may undertake a capstone project focusing on conventional energy, new energy, renewables, or decarbonisation solutions. There will be opportunities for you to work with students from other engineering disciplines to solve real-world problems related to the marine and offshore industry.",
+        "Careers": [
+            "Assistant Design Engineer",
+            "Assistant Production Engineer",
+            "Assistant Quality Assurance",
+            "Assistant Quality Control Engineer",
+            "Assistant Project Engineer"
+        ]
+    },
+    "Psychology & Community Development":{
+        "Course_Code": "N11",
+        "Abbreviation": "PCD",
+        "School": "School of Humanities & Interdisciplinary Studies",
+        "Poly_Course_Code": "N11",
+        "Course_Name": "Psychology & Community Development",
+        "Course_Description": "Curious about psychology and human behaviour? Passionate about building an inclusive and sustainable society? If you are keen to use your understanding of human behaviour to shape social changes and create real impact for communities, our Diploma in Psychology & Community Development (PCD) will give you a head start! With the growing global trend of corporates making a positive impact on society, PCD prepares you to be the new-gen social connector with the skills and intelligence to develop sustainable solutions that add value to both businesses and communities. Through PCD, you will gain insights into the motivations, attitudes and social dynamics that influence human interactions. Additionally, you will gain an understanding of principles that guide businesses to make socially sustainable decisions. Your comprehension of business needs and community issues will enable you to mobilise diverse stakeholders from the corporate and community sectors to create solutions that are impactful and sustainable. You can also play a key role in the care economy to foster community partnerships and enhance human services to impact social development and improve quality of lives.",
+        "Skills": "In your second year, depending on your area of interest, you can deepen your understanding in one of the three key sectors of the growing care economy: Youth: Acquire the skills to address the needs of youth-at-risk and the general youth population. Seniors: Get acquainted with the challenges faced by our seniors and develop programmes that facilitate active ageing. Disabilities: Gain perspectives of persons with disabilities to co-create innovative solutions and raise awareness on inclusivity.",
+        "Careers": [
+            "Community Development Executive",
+            "Community Partnership Executive",
+            "Publicity & Outreach Executive",
+            "Volunteer Executive",
+            "Programme Executive",
+            "Social Work Associate/Assistant",
+            "Community Care Associate/Assistant",
+            "Programme Coordinator/Executive",
+            "Care Staff",
+            "Youth Work Assistant"
+        ]
+    },
+    "Pharmaceutical Science":{
+        "Course_Code": "N73",
+        "Abbreviation": "PHAR1",
+        "School": "School of Life Sciences & Chemical Technology",
+        "Poly_Course_Code": "N73",
+        "Course_Name": "Pharmaceutical Science",
+        "Course_Description": "Discover what it is like to work at the forefront of drug discovery and development when you choose the Diploma in Pharmaceutical Science (PHARM). With Singapore being one of the most advanced hubs in the field of pharmaceutical manufacturing and research in Asia, you can expect bright career prospects in this sector!",
+        "Skills": "Disruptive technologies and emerging trends such as robotics, artificial intelligence, 3D printing and precision medicine are impacting the manufacturing and distribution of pharmaceuticals. To help you embrace new technologies, you will get a chance to learn 3D printing and prototyping skills that will help you to develop innovative solutions that can improve patients’ healthcare journeys. You can also explore learning technologies such as our interactive 360 virtual community pharmacy, which allows you to find out about the inner workings of a pharmacy through a 3D experience.",
+        "Careers": [
+            "Pharmacy Technician",
+            "Healthcare Product Executive",
+            "Laboratory Technologist",
+            "Pharmacy Sales Executive",
+            "Clinical Trial Associate / Coordinator",
+            "Quality Control Analyst",
+            "Quality Assurance Analyst",
+            "Regulatory Executive",
+            "Research Technologist"
+        ]
+    },
+    "Real Estate Business":{
+        "Course_Code": "N48",
+        "Abbreviation": "REB",
+        "School": "School of Design & Environment",
+        "Poly_Course_Code": "N48",
+        "Course_Name": "Real Estate Business",
+        "Course_Description": "If you have an interest in both real estate and business management, this diploma is right up your alley! The diploma in Real Estate Business (REB) equips you with industry-relevant skills in asset management and valuation, land planning and redevelopment, as well as future-ready competencies. The only poly diploma of its kind, this course has a unique curriculum that opens doors to many exciting possibilities in business and real estate – you can even contribute to shaping future cities!",
+        "Skills": "REB provides you with comprehensive knowledge in real estate and more. You will anchor your learning in business fundamentals, as well as hone a wide range of in-demand skill sets. You will develop expertise in smart technology, including knowledge of smart building systems and data analytics. You will also stay ahead of the curve with our new modules in real estate sustainability such as Sustainable Building Technologies and Environmental Services & Workplace Safety. You will also get the chance to work on an integrated project right from your first year! With REB, you will be well-prepared for future smart cities that are designed for sustainability.",
+        "Careers": [
+            "Valuation Executive / Officer",
+            "Property Finance & Loans Executive / Officer",
+            "Real Estate Investment Executive / Officer",
+            "Leasing Executive / Officer",
+            "Planning Executive / Officer",
+            "Property Management Executive / Officer",
+            "Environment, Health and Safety Specialist",
+            "Fire Safety Manager",
+            "Workplace Safety Executive / Officer"
+        ]
+    },
+    "Tourism & Resort Management":{
+        "Course_Code": "N72",
+        "Abbreviation": "TRM",
+        "School": "School of Business & Accountancy",
+        "Poly_Course_Code": "N72",
+        "Course_Name": "Tourism & Resort Management",
+        "Course_Description": "With international tourism set to return to pre-pandemic levels, organisations will need to transform their products and offerings, and build new capabilities to position themselves for future growth opportunities. NP’s Diploma in Tourism & Resort Management (TRM) will provide you with in-depth industry insights to help you reimagine the tourism landscape, and equip you with competencies that are relevant across different industries. With TRM, you will go places!",
+        "Skills": "With more travellers going green, TRM will enable you to better apply sustainability concepts and practices. You will examine industry best practices and learn how to shape new sustainable futures. Thanks to our partnerships with leading industry players, you will get to propose and plan sustainability-related business solutions, such as working on advocacy campaigns that target guests and visitors, and education programmes on environmental conservation. To ensure industry-relevant learning, your solutions will be co-assessed by industry experts, who will provide feedback and guidance.",
+        "Careers": [
+            "Attractions Operations Crew/Executive",
+            "Business Development Executive",
+            "Content and Experience Development Executive",
+            "Coordination and Reservations Executive",
+            "Customer Experience Executive",
+            "Customer Support Executive",
+            "Digital Marketing Executive",
+            "Education and Programmes Executive",
+            "Event Operations Executive",
+            "Event/Project Executive",
+            "Event Services Executive"
+        ]
+    },
+    "Tamil Studies with Early Education":{
+        "Course_Code": "N95",
+        "Abbreviation": "TSE",
+        "School": "School of Humanities & Interdisciplinary Studies",
+        "Poly_Course_Code": "N95",
+        "Course_Name": "Tamil Studies with Early Education",
+        "Course_Description": "Has it always been your dream to be an early childhood educator? Do you have a love for the rich Tamil language and culture? Make your dream a reality by taking up the Diploma in Tamil Studies with Early Education (TSE)! Through this one-of-a-kind diploma, you will be equipped with the skills and knowledge to nurture, inspire, educate and care for the next generation of young minds and have opportunities to share your passion for the Tamil language and culture with others! With the importance of Mother Tongue Language (MTL) in schools, you will secure good career opportunities as a Tamil Language early childhood educator.",
+        "Skills": "You will get to apply what you have learnt in a six-month internship at a preschool where you will teach Tamil MTL and literacy to young children. You will get the chance to develop creative learning activities for children to improve their literacy and motor skills.",
+        "Careers": [
+            "Pre-nursery teacher",
+            "Primary teacher"
+        ]
+    }
+}
+

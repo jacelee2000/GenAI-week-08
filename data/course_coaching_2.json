@@ -1,0 +1,149 @@
+{
+    "Accountancy":{
+        "Course_Code": "N51",
+        "Abbreviation": "ACC",
+        "School": "School of Business & Accountancy",
+        "Poly_Course_Code": "N51",
+        "Course_Name": "Accountancy",
+        "Course_Description": "Beyond bookkeeping and budgeting, accounting weaves business data together into actionable insights. In today’s rapidly changing business environment, financial experts play a key role in evaluating business risks, performing strategic analyses and identifying opportunities. If such challenges excite you, then our Diploma in Accountancy (ACC) will be your perfect choice! ACC will give you a solid grounding in domain knowledge and transferrable skills for exciting, diverse career options. Integrated with training in digital skills and the study of sustainability concepts, this course will enable you to become a future-ready accounting professional!",
+        "Skills": "ACC will equip you with data analytics skills, as well as cloud accounting and robotic process automation (RPA) know-how, so you can operate effectively and add value in the fast-paced economy.​​​​  You will get the opportunity to apply your domain knowledge and digital skills to solve industry challenges through integrated projects. With corporate sustainability becoming a priority at the workplace, ACC will also impart the skills to develop and measure the outcomes of sustainable practices for businesses.",
+        "Careers": ["Business Advisor",
+                    "Business Analyst",
+                    "Environment, Social & Governance (ESG) Auditor",
+                    "Financial Accountant",
+                    "Financial Auditor",
+                    "Forensics Accountant",
+                    "Internal Auditor",
+                    "Management Accountant",
+                    "Sustainability Data Specialist",
+                    "Tax Associate"]
+    },
+    "Banking & Finance":{
+        "Course_Code": "N53",
+        "Abbreviation": "BF",
+        "School": "School of Business & Accountancy",
+        "Poly_Course_Code": "N53",
+        "Course_Name": "Banking & Finance",
+        "Course_Description": "Technology, innovation and sustainability are key driving forces shaping the future of the global financial industry. Get equipped with the right skill sets to reimagine the future of banking with our Diploma in Banking & Finance (BF). The BF course provides you with broad-based knowledge of accounting and business with specialised training in banking and finance. You will learn how banks operate and acquire knowledge of environmental, social and governance (ESG) and green finance practices in the sector – and be ready to play a crucial role in driving sustainable finance initiatives.",
+        "Skills": "As the Sector Coordinator of Singapore'’s Accountancy & Financial Services cluster, we have established strong links with industry partners to provide you with robust learning experiences as well as industry networking and mentorship opportunities. To strengthen your understanding of key concepts learnt in the course, you will get to participate in the Pan-Poly FinTech hackathon, and other nationwide challenges such as the CGS-CIMB Investment Challenge, and work on industry projects where you can apply your skills to solve real-life business scenarios. Want to know if your project proposals are relevant to industry needs? You will get to present to and hear from industry professionals who will co-assess your project proposals.",
+        "Careers": [
+            "Banking Sales Executive",
+            "Banking Services Executive",
+            "Credit Analyst",
+            "Compliance Executive",
+            "Customer Service Executive",
+            "ESG Product Specialist",
+            "Financial Advisor",
+            "KYC Analyst",
+            "Personal Wealth Executive",
+            "Risk Analyst",
+            "Sustainable Finance Analyst"
+        ]
+    },
+    "Design":{
+        "Course_Code": "N12",
+        "Abbreviation": "DES",
+        "School": "School of Design & Environment",
+        "Poly_Course_Code": "N12",
+        "Course_Name": "Design",
+        "Course_Description": "Designers play a key role in developing solutions for the challenges we face today. From architecture to products, and experiences to processes, the designer helps create a better world. In the Diploma in Design (DES) – the only poly diploma with specialisations in Architecture and Product Innovation – you will be trained for creative careers in diverse sectors.",
+        "Skills": "DES will train you to be a next-gen designer with a curriculum that is infused with the latest technologies, with a focus on new economy skills such as data visualisation and user experience/interface (UX/UI) design. Gain exposure to emerging technologies such as Virtual Reality and Artificial Intelligence for digital design, as you hone your skills in digital fabrication, 3D printing, digital prototyping & visualisation, data analytics, machine learning and more. What’s more, you will acquire professional certifications in sought-after skills. As green design innovation gains momentum, our strong industry connections provide opportunities for you to create sustainable solutions through a wide range of hands-on activities that include hackathons and industry-sponsored projects. Throughout your three years, you will get to engage in real-world learning that equips you with career-ready skills.",
+        "Careers": [
+            "Architectural Executive", 
+            "Architectural Associate", 
+            "Interior Designer", 
+            "Architectural Drafter", 
+            "BIM Modeler", 
+            "Project Coordinator", 
+            "Planning Executive", 
+            "Technical Officer (Architecture)", 
+            "Technical Sales Executive", 
+            "Architectural Site Supervisor"]
+    },
+	"Hotel & Leisure Facilities Management":{
+        "Course_Code": "N40",
+        "Abbreviation": "HLFM",
+        "School": "School of Design & Environment",
+        "Poly_Course_Code": "N40",
+        "Course_Name": "Hotel & Leisure Facilities Management",
+        "Course_Description": "With a strong dual focus on smart and green technologies, the Diploma in Hotel & Leisure Facilities Management (HLFM) will prepare you for exciting careers in hospitality and facilities management!",
+        "Skills": "HLFM will equip you with digitalisation skills such as data analytics and data visualisation to help you use data to address real-world challenges. Get an added edge by learning smart technologies including Building Information Modelling (BIM), microbit coding and Internet of Things (IoT). You will also be trained to manage facilities in a world that has embraced digitalisation and automation.",
+        "Careers": [
+            "Catering & Service Executive",
+            "Front Office Executive",
+            "Guest Relations Executive",
+            "Business Development Executive",
+            "Events Operation Executive",
+            "Public Relations Executive",
+            "Sales & Marketing Executive",
+            "Assistant Engineer",
+            "Facility Officer/Executive",
+            "Technical Executive"
+        ]
+    },
+    "Aerospace Engineering":{
+        "Course_Code": "N65",
+        "Abbreviation": "AEG",
+        "School": "School of Engineering",
+        "Poly_Course_Code": "N65",
+        "Course_Name": "Aerospace Engineering",
+        "Course_Description": "Growing up, were you fascinated with how a heavy machine can fly? Do you ever imagine yourself working on the next generation of aircraft? Then come on board the Diploma in Aerospace Engineering (AEG). As global travel resumes, the demand for aerospace professionals in the industry is set to soar. With this broad-based diploma, you will gain a strong engineering foundation and discover how you can play a role in this fast-growing sector!",
+        "Skills": "Gain insights into the aerospace industry through modules such as aerial system design and integration, aircraft electrical and instrumentation systems, as well as aircraft data communications and networking. As more companies leverage the power of big data to monitor aircraft health and predict maintenance schedules, you will be equipped with next-gen skills such as data analytics, artificial intelligence & machine learning. In addition, with green aviation concepts integrated into the AEG curriculum, you can contribute significantly to environmental sustainability efforts within the aerospace sector!",
+        "Careers": [
+            "Planning Executive",
+            "Planning Supervisor",
+            "Senior Technician (Engine/Engine Component Repair & Overhaul)",
+            "Senior Technician (Component Repair & Overhaul - Avionics/Mechanical)",
+            "Senior Technician (Avionics/Mechanical)",
+            "Quality Engineer",
+            "Technical Service Engineer",
+            "Workshop Engineer"
+        ]
+    },
+	"Biomedical Engineering":{
+        "Course_Code": "N60",
+        "Abbreviation": "BME",
+        "School": "School of Engineering",
+        "Poly_Course_Code": "N60",
+        "Course_Name": "Biomedical Engineering",
+        "Course_Description": "Fascinated by how engineering and biology can benefit society? Or are you interested in helping medical professionals do their work better? If you’re passionate about the medical technology (MedTech) field, then the Diploma in Biomedical Engineering (BME) is perfect for you. This fast-growing field is responsible for the design of sophisticated medical devices and healthcare equipment such as personal health trackers – which range from wearable glucose meters to electrocardiography (ECG) monitors - and lifesaving devices including the pacemaker and dialysis machine. The first diploma of its kind in Singapore, BME is jointly developed by Ngee Ann Polytechnic’s School of Engineering and industry partners. Besides learning the testing and manufacturing processes of medical devices and healthcare equipment, BME also gives you a firm grounding in research that could lead to the discovery and development of faster and more accurate tools for medical treatment.",
+        "Skills": "As medical devices become more connected, there is an increased need to ensure these devices are safe from cyber threats. BME will equip you with the skills to embed cybersecurity requirements in the development of MedTech solutions. You will also be exposed to emerging technologies like Artificial Intelligence and the Internet of Medical Things (IoMT), which are increasingly adopted for clinical applications.",
+        "Careers": [
+            "Assistant Biomedical Engineer",
+            "Assistant Equipment Engineer",
+            "Assistant Product Engineer",
+            "Assistant Process Engineer",
+            "Field Service Engineer",
+            "Quality Assurance Specialist",
+            "Quality Control Laboratory Analyst",
+            "Research Associate",
+            "Sales Engineer"
+        ]
+    },
+    "Mass Communication":{
+        "Course_Code": "N67",
+        "Abbreviation": "MCM",
+        "School": "School of Film & Media Study",
+        "Poly_Course_Code": "N67",
+        "Course_Name": "Mass Communication",
+        "Course_Description": "A compelling narrative has the power to impact lives. Bring light to important topics, develop the big idea to effect change, and shape the way your community thinks, all with the skills you will pick up in the most established and well-loved media course in Singapore – the Diploma in Mass Communication (MCM). With a comprehensive curriculum that includes digital content creation, journalism, integrated communications, advertising, public relations, radio, TV and social media, you will learn how to effectively use all media platforms and deepen your skills in a specific area at the same time.",
+        "Skills": "You will acquire a suite of fundamental media skills in your first year, laying a strong foundation for you as you hone your skill sets in digital journalism and marketing, content marketing, market research and user experience design in the following year. You will develop your skills in top-notch purpose-built facilities that include TV and radio studios, and media labs.",
+        "Careers": [
+            "Advertising Executive",
+            "Content Producer",
+            "Corporate Communications Executive",
+            "Journalist",
+            "Marketing Communications Specialist",
+            "Producer",
+            "Presenter",
+            "Public Relations Specialist",
+            "Research Executive",
+            "Social Media Content Specialist",
+            "Sub-Editor",
+            "UI/UX Designer",
+            "UX Writer",
+            "Or start your own business like the founders of Krei Digital!"
+        ]
+    }
+}
+
