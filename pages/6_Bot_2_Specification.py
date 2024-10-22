@@ -72,6 +72,4 @@ with st.expander("Methodology"):
     st.image(image_path, caption="Methodology")
 
 
-with st.expander("GITHUB Link"):
-    st.write("https://github.com/jacelee2000/GenAI-week-08 ")
           
