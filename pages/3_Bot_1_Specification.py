@@ -71,5 +71,6 @@ with st.expander("Methodology"):
     st.image(image_path, caption="Methodology")
     
 
-
+with st.expander("Streamlit Link"):
+    st.write("https://genai-week-08.streamlit.app/")
           
