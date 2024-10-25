@@ -39,11 +39,10 @@ with st.expander("Project Scope"):
 
 with st.expander("Objective"):
     st.write('''
-            The bot will direct enquirer to the correct Ngee Ann Polytechnic website when enquirer enquiries on:
-             1. DAE International Qualification website - for enquiry related to minimum entry requirement for DAE admission exercise.
-             2. Course Minimum Entry Requirement website - for enquiry related to course minimum entry requirement 
-             3. Course Fee website - for enquiry related to course fee
-             4. Financial Aid website - for enquiry related to financial aid
+            The bot will respond to public inquiries based on Ngee Ann Polytechnic related to DAE International Qualification minimum entry requirement.
+             Secondly, the bot will direct enquirer to the correct Ngee Ann Poly website when enquirer enquiries on: 
+             1. Course Fee website - for enquiry related to course fee
+             2. Financial Aid website - for enquiry related to financial aid
              ''')
 
 

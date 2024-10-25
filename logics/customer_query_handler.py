@@ -2,6 +2,7 @@ import os
 import json
 import openai
 from helper_functions import llm
+import requests
 
 school_n_course_name = {'School of Business & Accountancy':['Accountancy',
                                                               'Banking & Finance'],
@@ -129,7 +130,79 @@ def process_user_message(user_input):
 
     return reply, course_details
 
+
+def fetch_website_content(website_url):
+    try:
+        response = requests.get(website_url)
+        response.raise_for_status()  # Raise an error for bad responses
+        return response.text  # Return the website content
+    except requests.RequestException as e:
+        print(f"Error fetching the website: {e}")
+        return None
+    
 def generate_response_based_on_course_details_2(user_message):
+    delimiter = "####"
+
+    dae_int_qual_url = "https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/international-qualification-holder"
+    dae_int_qual_website = fetch_website_content(dae_int_qual_url)
+
+    course_mer_url = "https://www.np.edu.sg/schools-courses/full-time-courses"
+    course_mer_website = fetch_website_content(course_mer_url)
+
+    course_fee_url = "https://www.np.edu.sg/admissions-enrolment/academic-matters/course-fees"
+    course_fee_website = fetch_website_content(course_fee_url)
+
+    financial_aid_url = "https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid  "
+    financial_aid_website = fetch_website_content(financial_aid_url)
+
+    system_message = f"""
+    You are an AI assistant who drafts replies to queries on the Direct Admissions Exercise (DAE) 
+    which is administered by Ngee Ann Polytechnic to allow applicants whose qualification types are 
+    ineligible under JAE (Joint Admission Exercise) and JPAE (Joint-Poly Admission Exercise) 
+    to apply for admission to our full-time diploma courses.
+
+    - The school is Ngee Ann Polytechnic (NP). The enquirers are mainly prospective or current students and parents.
+
+    ### Important Business Rules
+- The replies should be comprehensive to include as much relevant details as possible, in a clear and professional manner, as replied by a staff in the admissions department of the school. Include the relevant hyperlinks if they are mentioned in the data source.
+- Answer questions related to minimum entry requirement truthfully based on the data source from the [DAE International Qualification] link whose content in html. The link provides the minimum entry requirements for different qualification. Strictly use the provided info from the {dae_int_qual_website} for your response. From the entry requirement details in the link, think through the steps required to arrive at the correct response. Strickly extract the minimum entry requirements from the {dae_int_qual_website} link only. If you are unsure on how to answer, please direct enquirer to the [DAE International Qualification] link instead.
+- For queries related to Course Fees, direct the enquirer to refer to [course fee] link with a hyperlink.  
+- For queries related to Financial Aid, direct the enquirer to refer to [financial aid] link with a hyperlink.  
+[DAE International Qualification] is website for minimum entry requirement for DAE International Qualification - https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/international-qualification-holder
+[course fee] is website for course fee - https://www.np.edu.sg/admissions-enrolment/academic-matters/course-fees
+[financial aid] is website for financial aid - https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/aid  
+- Examples of qualifications are below for your reference.  
+•	International General Certificate of Secondary Education (IGCSE) 
+•	International Baccalaureate (IB) Diploma
+•	Unified Examination Certificate (UEC)
+•	Sijil Pelajaran Malaysia (SPM)
+•	Sijil Tinggi Persekolahan Malaysia (STPM)
+•	Brunei-Cambridge General Certificate of Education Ordinary Level
+•	National College Entrance Examination (NCEE) ‘Gaokao’
+•	Year 12 Senior Middle School Graduation Examination Results
+•	Year 11 Senior Middle 2 Semester 2 Results
+•	Hong Kong Diploma of Secondary Education (HKDSE)
+•	Year 10 of Central Board of Secondary Education (CBSE) 
+•	Indian Certificate of Secondary Education (ICSE)
+•	Higher Secondary School Certificate (Year 12)  
+- **Important** The minimum entry requirements details are different depending on enquirer's qualification and nationality country. Do not indicate whether the enqurier can meet the minimum entry requirement, simply extract the minimum entry requirement and direct the enquirer to refer to [DAE International Qualification] link for the minimum entry requirement details. 
+- For course minimum entry requirement, direct enquirer to [Course Minimum Entry Requirement].
+    
+
+    """
+
+    messages =  [
+        {'role':'system',
+         'content': system_message},
+        {'role':'user',
+         'content': f"{delimiter}{user_message}{delimiter}"},
+    ]
+
+    response_to_customer = llm.get_completion_by_messages(messages)
+    return response_to_customer
+
+
+def generate_response_based_on_course_details_3(user_message):
     delimiter = "####"
 
     system_message = f"""

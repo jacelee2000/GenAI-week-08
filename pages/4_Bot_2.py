@@ -24,7 +24,8 @@ form = st.form(key="form")
 form.subheader("Prompt")
 
 user_prompt = form.text_area('''Enter your prompt here related to DAE International Qualification entry qualification, course fee or financial aid.
-                             e.g. My qualification is Sijil Pelajaran Malaysia (SPM) and I am from Malaysia. What is the entry requirement to Ngee Ann poly course?
+                             e.g. My qualification is Sijil Pelajaran Malaysia (SPM) and I am from Malaysia. What is the entry requirement to Ngee Ann poly course? 
+                             Is there any financial aid that I can apply for? How much the course fee?
                              ''', height=200)
 
 if form.form_submit_button("Submit"):
