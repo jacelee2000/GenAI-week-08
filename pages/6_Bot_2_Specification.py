@@ -51,9 +51,6 @@ with st.expander("Available Data Source"):
             
              #### DAE International Qualification minimum entry requirement link
              - https://www.np.edu.sg/admissions-enrolment/guide-for-prospective-students/international-qualification-holder 
-
-            #### Course Minimum Entry REquirement link
-             - https://www.np.edu.sg/schools-courses/full-time-courses
             
              #### Course Fee link         
              - https://www.np.edu.sg/admissions-enrolment/academic-matters/course-fees.
